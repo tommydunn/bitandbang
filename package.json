@@ -1,14 +1,14 @@
 {
-  "name": "bitandbang",
-  "version": "1.3.0",
-  "description": "A personal card for Tierney Cyren (@bitandbang)",
+  "name": "tommydunn",
+  "version": "1.0.0",
+  "description": "A personal card for Tommy Dunn (@tommydunn)",
   "main": "/bin/card.js",
   "bin": {
-    "bitandbang": "./bin/card.js"
+    "tommydunn": "./bin/card.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/bnb/bitandbang.git"
+    "url": "git+https://github.com/tommydunn/tommydunn.git"
   },
   "scripts": {
     "prepublish": "npm run build",
@@ -25,7 +25,7 @@
     "npx card",
     "business card"
   ],
-  "author": "Tierney Cyren <hello@bnb.im> (http://bnb.im)",
+  "author": "Tommy Dunn <tommy@tdunn.io> (https://www.tdunn.io)",
   "license": "MIT",
   "files": [
     "bin/card.js",
@@ -35,5 +35,10 @@
     "boxen": "^2.1.0",
     "chalk": "^2.4.1",
     "standard": "^12.0.1"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/tommydunn/tommydunn/issues"
+  },
+  "homepage": "https://github.com/tommydunn/tommydunn#readme",
+  "dependencies": {}
 }

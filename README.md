@@ -1,4 +1,4 @@
-*Forked from [Tierney Cyren](https://github.com/bnb/bitandbang)*
+![tommydunn](http://img.tdunn.io/a52ee6/npx-tommydunn.png)
 
 # Usage
 Via npx:
